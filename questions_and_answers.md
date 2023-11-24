@@ -18,9 +18,10 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
-<i>Write your explanation here</i>
+<i>let is a block scope variable Because of which output empty object</i>
+<i>let is a  radicular variable and new value can be assigned because of which empty object output is available</i>
 
 </p>
 </details>
@@ -43,9 +44,10 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
-<i>Write your explanation here</i>
+<i>Two values, not a number because of which is value concat and as well as an output 12 string value available</i>
+<i>Two variable value numbers because of which as well as an output 3 number value available</i>
 
 </p>
 </details>
@@ -69,9 +71,10 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
-<i>Write your explanation here</i>
+<i>foot array not change</i>
+<i>foot array does not change because the previous array output is available</i>
 
 </p>
 </details>
@@ -94,9 +97,10 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
-<i>Write your explanation here</i>
+<i>sayHi function is use single parameter and the function call parameter value not assigned that's why the output dynamic value is undefined</i>
+<i>sayHi function uses a single parameter and the function calls parameter value assigned  output dynamic value not undefined</i>
 
 </p>
 </details>
@@ -122,7 +126,7 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
 <i>Write your explanation here</i>
 
